@@ -1,0 +1,13 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+env/
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.py[cod]
+
+# Bỏ qua file cấu hình của VS Code (tùy chọn)
+.vscode/
+
+# Nếu bạn không muốn up file model (nếu file quá nặng > 100MB) thì bỏ comment dòng dưới
+# *.task
