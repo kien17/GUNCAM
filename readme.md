@@ -31,7 +31,7 @@ Dự án này khuyến khích sử dụng môi trường ảo (`venv`).
 
 ### Bước 1: Clone dự án
 ```bash
-git clone <LINK_GITHUB_CUA_BAN>
+git clone https://github.com/kien17/GUNCAM.git
 cd gunCam
 ```
 ### Bước 2: Thiết lập môi trường ảo
