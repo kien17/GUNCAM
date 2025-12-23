@@ -80,8 +80,8 @@ python gunCam.py
 - **Gập nhanh ngón cái vào lòng bàn tay** để bắn
 
 🔹 **Chế độ 2 người**:
-- Tay **trái** điều khiển màn hình **bên trái**
-- Tay **phải** điều khiển màn hình **bên phải**
+- Người chơi **thứ nhất** điều khiển màn hình **bên trái**
+- Người chơi **thứ hai** điều khiển màn hình **bên phải**
 
 ---
 
