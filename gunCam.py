@@ -297,7 +297,7 @@ class HandGunGame:
                 self.draw_results()
 
             pygame.display.flip()
-            self.clock.tick(FPS)
+            # self.clock.tick(FPS)
 
         self.cap.release()
         pygame.quit()
