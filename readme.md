@@ -91,5 +91,6 @@ GUNCAM/
 ├── gunCam.py # Source code chính
 ├── hand_landmarker.task # Model AI (Model chính dùng cho nhận diện tay)
 ├── requirements.txt # Danh sách thư viện
+├── shot.mp3 # File âm thanh tiếng súng bắn
 └── README.md # Tài liệu hướng dẫn
 ```
