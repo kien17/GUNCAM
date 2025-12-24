@@ -41,11 +41,11 @@ python -m venv venv
 ```
 
 #### Kích hoạt venv
-#### Trên Windows:
+##### Trên Windows:
 ```bash
 .\venv\Scripts\activate
 ```
-#### Trên macOS/Linux:
+##### Trên macOS/Linux:
 ```bash
 source venv/bin/activate
 ```
