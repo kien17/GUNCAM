@@ -89,7 +89,7 @@ python gunCam.py
 ```bash
 GUNCAM/
 ├── gunCam.py # Source code chính
-├── hand_landmarker.task # Model AI (Model chính dùng cho nhận diện tay lấy từ google)
+├── hand_landmarker.task # Model AI (Model chính dùng cho nhận diện tay)
 ├── requirements.txt # Danh sách thư viện
 └── README.md # Tài liệu hướng dẫn
 ```
