@@ -263,6 +263,7 @@ class HandGunGame:
                     else: 
                         eff_color = RED if s.get('miss') else YELLOW
                         pygame.draw.circle(self.screen, eff_color, (int(s['x']), int(s['y'])), 40)
+                        pygame.mixer.Sound.play(pygame.mixer.Sound('shot.mp3'))
 
                 if self.mode == 'BATTLE':
                     score1_surf = self.font_med.render(f"P1: {self.score_left}", True, YELLOW)
